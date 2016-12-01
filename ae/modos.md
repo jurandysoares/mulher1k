@@ -13,7 +13,11 @@
 * Para entrar neste modo, pressione a tecla `F5`
 
 ## Topicos
-* Neste modo,
+* Neste modo, é útil fazer o uso das teclas:
+  * **ENTER**: Cria um novo slide ou cria um novo tópico
+  * **TAB**: 
+  * **SHIFT+TAB**: 
+  
 ## Classificacao de Slides
 
 ## Notas

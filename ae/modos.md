@@ -12,7 +12,7 @@
 <a name="apresentacao">
 ## Apresentação
  * `F5`: Inicia a apresentação a partir do __1º__ slide
- * `SHIFT+F5`: Inicia a apresentação a partir do slide atual
+ * `SHIFT+F5`: Inicia a apresentação a partir do __slide atual__
 
 <a name="topicos">
 ## Tópicos

@@ -1,9 +1,9 @@
 # Modos
 
 * [Normal](#normal)
-* [Apresentaço](#apresentacao)
+* [Apresentação](#apresentacao)
 * [Tópicos](#topicos)
-* [Classificação de Slides](#classificacao-de-slides)
+* [Classificação de Slides](#classificacao)
 * [Notas](#notas)
 
 ## Normal
@@ -17,7 +17,8 @@
   * **ENTER**: Cria um novo slide ou cria um novo tópico
   * **TAB**: 
   * **SHIFT+TAB**: 
-  
+
+<a name="classificacao">
 ## Classificacao de Slides
 
 ## Notas

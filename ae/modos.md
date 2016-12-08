@@ -22,7 +22,7 @@
   * **SHIFT+TAB**: 
 
 <a name="classificacao">
-## Classificacao de Slides
+## Classificação de Slides
 
 <a name="anotacao">
 ## Anotação

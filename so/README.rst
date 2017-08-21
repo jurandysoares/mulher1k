@@ -77,9 +77,11 @@ Avaliação
 Bibliografia Básica
 ---------------------
 
-1. CAPRON, H.L. e JOHNSON, J.A. Introdução à informática. São Paulo : Pearson Prentice Hall, 2004.
+1. CAPRON, H.L. e JOHNSON, J.A. Introdução à informática. São Paulo : Pearson Prentice Hall, 2004. 
+
 Bibliografia Complementar
-2. Tutoriais, apostilas e páginas da Internet.
+-------------------------
+1. Tutoriais, apostilas e páginas da Internet.
 
 Software(s) de Apoio
 --------------------

@@ -21,6 +21,9 @@ Conteúdo:
    semana+organizada/index
    ano/index
    ano+organizado/index
+   dia-inverso/index
+   semana-inversa/index
+   ano-inverso/index
 
 
 Indices e tabelas

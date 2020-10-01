@@ -1,7 +1,7 @@
-Bastidores do exercícios sobre pastas
+Bastidores do exercício sobre pastas
 ======================================
 
-As pastas criadas como modelo foram criadas utilizando o recurso de expansão das chaves do `bash <https://pt.wikipedia.org/wiki/Bash>`_, o interpretador de comandos padrão do Linux e que também pode ser executado no Windows.
+As pastas do exercício foram criadas utilizando o recurso de expansão das chaves do `bash <https://pt.wikipedia.org/wiki/Bash>`_, o interpretador de comandos padrão do Linux e que também pode ser executado no Windows.
 
 * Dia e seus turnos::
 

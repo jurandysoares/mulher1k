@@ -1,0 +1,28 @@
+site_name: "Mulher1k: Exercícios sobre criação de pastas"
+site_url: https://mange.ifrn.edu.br/mulher1k/
+
+copyright: Jurandy Soares &copy; 2020
+
+theme:
+  logo: imagem/favicon.png
+  favicon: imagem/favicon.png
+  name: material
+  language: pt
+
+  palette:
+    scheme: default
+    primary: green
+    accent: green    
+
+nav:
+    - 'Página inicial': 'index.md'
+    - 'dia.md'
+    - 'dia+organizado.md'
+    - 'refeicao.md'
+    - 'refeicao+organizada.md'
+    - 'ocupacao.md'
+    - 'apresentacao.md'
+    - 'semana.md'
+    - 'semana+organizada.md'
+    - 'ano.md'
+    - 'ano+organizado.md'
